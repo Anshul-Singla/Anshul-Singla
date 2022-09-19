@@ -1,38 +1,25 @@
-# Hi, I'm Anshul Singla! 👋
-## 🚀 About Me
+<h1 align="center">Hi 👋, I'm Anshul Singla</h1>
+<h3 align="center">A passionate frontend developer from India.An enthusiastic Full Stack Web Developer with a strong set of technical as well as non-technical skills and a dedication towards creating useful and interactive web applications. Good Knowledge in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself.</h3>
 
-An enthusiastic Full Stack Web Developer with a strong set of technical as well as non-technical skills and a dedication towards creating useful and interactive web applications. Good Knowledge in website architecture, design, web design, and web API designs. I'm also an enthusiastic learner who's constantly working to learn new things and improve my skills to be the best version of myself. 
-    
-- 👩‍💻 I'm currently working on improving my skills
+- 🔭 I’m currently working on [KINDEMAEAL.COM(CLONE)](https://github.com/Anshul-Singla/public-language-8892)
 
-- 🧠 I'm currently learning React-redux
+- 🌱 I’m currently learning **React-Redux**
 
-- 💬 Ask me about NodeJS/Express//React-redux/React/JS/HTML/CSS
+- 👨‍💻 All of my projects are available at [https://anshul-singla.github.io/](https://anshul-singla.github.io/)
 
-- Checkout my [Portfolio](https://Anshul-Singla.github.io/)
+- 💬 Ask me about **React/JavaScript/HTML/CSS/NodeJS/express/MongoDB**
 
-<a href="https://www.linkedin.com/in/vaibhavghawale15/">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/linkedin_logo_icon_171224.png" alt="LinkedIn Logo" width="130px"/></a>
+- 📫 How to reach me **asingla2807@gmail.com**
 
-<a href="https://www.hackerrank.com/vaibhavghawale01">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" alt="HackerRank Logo" width="130px"/></a>
+- 📄 My Resume [https://drive.google.com/drive/u/2/folders/1_6y2gxNxrO6qei6smrQdVOy449M_tia5](https://drive.google.com/drive/u/2/folders/1_6y2gxNxrO6qei6smrQdVOy449M_tia5)
 
-<a href="https://leetcode.com/v_a_i_b_h_a_v/">
-  <img align="center" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="LeetCode Logo" width="130px"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Anshul-Singlav&left_color=blue&right_color=green) -->
-<!--   ![Visitor Count](https://profile-counter.glitch.me/Anshul-Singla/count.svg) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<span><h2 align="center">Languages and Tools:</h2>
-  <br>
-    <p align="center">
-    <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/java/java.png" alt="Java" width="50px" height="50px"/>
-    <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/spring-boot/spring-boot.png" alt="Spring Boot Logo" width="50px" height="50px"/>
-    <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/mysql/mysql.png" alt="MySQL Logo" width="50px" height="50px"/>
-    <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/javascript/javascript.png" alt="JS Logo" width="50px" height="50px"/>
-    <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/html/html.png" alt="HTML" width="50px" height="50px"/>
-    <img align="center" src="https://github.com/github/explore/blob/60c4ca5a1ccb9592f3fb4f5167fbcd58c9ad000d/topics/css/css.png" alt="CSS" width="50px" height="50px"/> 
-</p></span>
 
 <br>
 
