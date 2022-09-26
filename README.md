@@ -11,9 +11,10 @@
 
 - 📫 How to reach me **asingla2807@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/drive/u/2/folders/1_6y2gxNxrO6qei6smrQdVOy449M_tia5](https://drive.google.com/drive/u/2/folders/1_6y2gxNxrO6qei6smrQdVOy449M_tia5)
+- 📄 My Resume [Resume](https://drive.google.com/drive/u/2/folders/1_6y2gxNxrO6qei6smrQdVOy449M_tia5)
 
 <h3 align="left">Connect with me:</h3>
+!(linkedIn)[https://www.linkedin.com/in/anshul1998/]
 <p align="left">
 </p>
 
