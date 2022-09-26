@@ -14,9 +14,8 @@
 - 📄 My Resume [Resume](https://drive.google.com/drive/u/2/folders/1_6y2gxNxrO6qei6smrQdVOy449M_tia5)
 
 <h3 align="left">Connect with me:</h3>
-[![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/anshul1998/)
 <p align="left">
-  <a href="https://linkedin.com/in/<a href="https://www.linkedin.com/in/anshul1998/" rel="some text">![foo](https://cdn-icons-png.flaticon.com/512/174/174857.png)</a> [![linkenin](hhttps://www.linkedin.com/in/anshul1998/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="<a href="https://www.linkedin.com/in/anshul1998/" rel="some text">![foo](https://cdn-icons-png.flaticon.com/512/174/174857.png)</a> [![linkenin](hhttps://www.linkedin.com/in/anshul1998/" height="30" width="40" /></a>
+ [![linkedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/anshul1998/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
