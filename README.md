@@ -14,7 +14,7 @@
 - 📄 My Resume [Resume](https://drive.google.com/drive/u/2/folders/1_6y2gxNxrO6qei6smrQdVOy449M_tia5)
 
 <h3 align="left">Connect with me:</h3>
-!(linkedIn)[https://www.linkedin.com/in/anshul1998/]
+[!(linkedIn) [https://cdn-icons-png.flaticon.com/512/174/174857.png] https://www.linkedin.com/in/anshul1998/]
 <p align="left">
 </p>
 
