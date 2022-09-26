@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 [!(linkedIn) [https://cdn-icons-png.flaticon.com/512/174/174857.png]](https://www.linkedin.com/in/anshul1998/)
+[![linkenin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/anshul1998/)
 <p align="left">
 </p>
 
