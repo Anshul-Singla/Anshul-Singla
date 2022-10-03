@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-     <a href="https://www.linkedin.com/in/anshul1998/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt=""> </a> <a href="https://www.linkedin.com/in/anshul1998/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt=""> </a>
+     <a href="https://www.linkedin.com/in/anshul1998/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt=""> </a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
