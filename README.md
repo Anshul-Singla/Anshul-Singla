@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **asingla2807@gmail.com**
 
-- 📄 My Resume [Resume](https://drive.google.com/drive/u/2/folders/1_6y2gxNxrO6qei6smrQdVOy449M_tia5)
+- 📄 My Resume [Resume]([https://drive.google.com/drive/u/2/folders/1_6y2gxNxrO6qei6smrQdVOy449M_tia5](https://github.com/Anshul-Singla))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
